@@ -1,0 +1,5 @@
+export { default as Login } from './Login'
+export { default as Player } from './Player'
+export { default as Players } from './Players'
+export { default as Home } from './Home'
+export { default as ScoreBoard } from './ScoreBoard'
